@@ -11,6 +11,10 @@ Atividade desenvolvida em Nuxt.js
 https://github.com/RafaelWagnerGoncalves/Creepy-Forest
 ```
 
+```
+cd Creepy-Forest
+```
+
 - Install dependencies:
 
 ```
